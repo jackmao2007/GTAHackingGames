@@ -5,7 +5,7 @@ import time
 import win32api
 
 activation = False
-MAX_HACK_COUNT = 4
+MAX_HACK_COUNT = 1
 count = 0
 while True:
     if win32api.GetAsyncKeyState(0x73) or count == MAX_HACK_COUNT:  # press F4 to activate
