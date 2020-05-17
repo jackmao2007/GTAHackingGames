@@ -2,10 +2,10 @@
 scripts to auto hack hacking mini games in gta using python
 
 # Casino
-- Finger Print Scanner
-Run Casino/FingerPrintHack/main.py
-Go on to the finger print hacking screen
-Press F4 to activate auto hacking
+- Finger Print Scanner /n
+Run Casino/FingerPrintHack/main.py /n
+Go on to the finger print hacking screen /n
+Press F4 to activate auto hacking /n
 
 Note:
 - The script will automatically deactivate hacking after 4 hacks, you can press F4 to activate hacking again
