@@ -9,3 +9,4 @@ Press F4 to activate auto hacking <br />
 Note:
 - The script will automatically deactivate hacking after 1 hack, you can press F4 to activate hacking again
 - You can deactivate hacking by pressing F4 anytime. script will stop after it finishes the last on going hack
+- Does not work properly on window mode. Will work on boarderless window of any resolution.
