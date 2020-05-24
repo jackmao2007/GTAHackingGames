@@ -1,6 +1,9 @@
 # GTAHackingGames
 scripts to auto hack hacking mini games in gta using python
 
+requirements:
+Python3.7 numpy opencv-python win32gui PIL time os
+
 # Casino Finger Print Scanner
 Run Casino/FingerPrintHack/main.py <br />
 Go on to the finger print hacking screen <br />
